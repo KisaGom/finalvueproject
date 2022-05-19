@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <nav>
+      <h2>jhi commit 연습</h2>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </nav>
